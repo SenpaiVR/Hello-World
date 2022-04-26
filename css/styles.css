@@ -1,4 +1,18 @@
-.column {
-    width: 300px;
-    float: left;
+.my-class {
+    border: 2px solid green;
+    padding: 10px;
+    background-color: orange;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+    box-sizing: border-box;
+  }
+  
+  .centered-image {
+    margin: auto;
+    width: 80%;
+    height: auto;
+    display: block;
   }
